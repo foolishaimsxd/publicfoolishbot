@@ -1,0 +1,17 @@
+{
+  "name": "api2kirka",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "kirkajs": "^1.4.3",
+    "ws": "^8.18.0"
+  }
+}
